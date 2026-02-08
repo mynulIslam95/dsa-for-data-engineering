@@ -1,95 +1,235 @@
-﻿# Data Engineering Portfolio
+A structured set of Data Structures and Algorithms problems has been carefully selected and systematically solved to strengthen analytical thinking aligned with data engineering practice. Emphasis has been placed on building clarity in problem solving, improving efficiency awareness and developing scalable coding approaches relevant to real world data systems. Consistent practice has been maintained to support a deeper understanding of data processing logic, optimization techniques and practical engineering readiness.
 
-Designing scalable data systems, building production pipelines and mastering algorithmic foundations that support real world data engineering.
 
----
 
-## Engineering Focus
+Phase 1 — Core Data Handling Foundations
 
-Data engineering with strong emphasis on reliability, performance and structured problem solving. Work spans distributed data processing, cloud platforms, orchestration, warehousing and algorithmic optimization.
 
-Practical experience includes pipeline architecture, batch and streaming workflows, CI/CD automation and large scale data transformation.
+Focus: Arrays, hashing, aggregation logic
+Data engineering relevance: Data cleaning, deduplication, aggregation, log processing, dataset transformations.
 
----
+Arrays and Strings
 
-## Technical Stack
+	•	Two Sum — https://leetcode.com/problems/two-sum/
+	
+	•	Best Time to Buy and Sell Stock — https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+	
+	•	Contains Duplicate — https://leetcode.com/problems/contains-duplicate/
+	
+	•	Maximum Subarray — https://leetcode.com/problems/maximum-subarray/
+	
+	•	Product of Array Except Self — https://leetcode.com/problems/product-of-array-except-self/
+	
+	•	Move Zeroes — https://leetcode.com/problems/move-zeroes/
+	
+	•	Rotate Array — https://leetcode.com/problems/rotate-array/
+	
+	•	Merge Intervals — https://leetcode.com/problems/merge-intervals/
+	
+	•	Insert Interval — https://leetcode.com/problems/insert-interval/
+	
+	•	Container With Most Water — https://leetcode.com/problems/container-with-most-water/
+	
+	•	3Sum — https://leetcode.com/problems/3sum/
+	
+	•	Set Matrix Zeroes — https://leetcode.com/problems/set-matrix-zeroes/
+	
+	•	Spiral Matrix — https://leetcode.com/problems/spiral-matrix/
+	
+	•	Subarray Sum Equals K — https://leetcode.com/problems/subarray-sum-equals-k/
+	
+	•	Longest Consecutive Sequence — https://leetcode.com/problems/longest-consecutive-sequence/
+	
+	•	Majority Element — https://leetcode.com/problems/majority-element/
+	
+	•	Missing Number — https://leetcode.com/problems/missing-number/
+	
+	•	Jump Game — https://leetcode.com/problems/jump-game/
 
-Python, SQL, PySpark, Pandas  
-Apache Spark, Kafka, Airflow, Flink  
-Databricks, Snowflake, BigQuery  
-AWS and GCP cloud ecosystems  
-Docker, Kubernetes, Terraform  
-GitHub Actions, CI/CD workflows  
-dbt, Data Warehousing design
 
----
+Phase 2 — Hashing, Streaming and Pattern Recognition
 
-## Engineering Work Highlights
+Focus: Frequency counting, sliding window
+Data engineering relevance: Event streams, log analysis, deduplication, session analytics.
 
-Built batch and real time pipelines across multiple domains.  
-Designed warehouse layers with transformation and validation logic.  
-Implemented orchestration, CDC ingestion and streaming analytics.  
-Applied monitoring, logging and deployment automation practices.
+	•	Group Anagrams — https://leetcode.com/problems/group-anagrams/
+	
+	•	Valid Anagram — https://leetcode.com/problems/valid-anagram/
+	
+	•	Longest Substring Without Repeating Characters — https://leetcode.com/problems/longest-substring-without-repeating-characters/
+	
+	•	Minimum Window Substring — https://leetcode.com/problems/minimum-window-substring/
+	
+	•	Top K Frequent Elements — https://leetcode.com/problems/top-k-frequent-elements/
+	
+	•	Find All Anagrams in a String — https://leetcode.com/problems/find-all-anagrams-in-a-string/
+	
+	•	Valid Sudoku — https://leetcode.com/problems/valid-sudoku/
+	
+	•	Happy Number — https://leetcode.com/problems/happy-number/
+	
+	•	Two Sum II — https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+	
+	•	Isomorphic Strings — https://leetcode.com/problems/isomorphic-strings/
 
-Strong focus on production readiness and maintainable data systems.
 
----
+Phase 3 — Data Structures and Memory Flow
 
-## Algorithmic Foundations
 
-Extensive structured practice in data structures and algorithms aligned with data engineering needs:
+Focus: Linked lists, stacks, queues
+Data engineering relevance: Caching, buffering, streaming pipelines, memory handling.
 
-Data cleaning and aggregation patterns  
-Streaming and hashing techniques  
-Memory efficient structures  
-Search optimization strategies  
-Graph and tree modeling  
-Pipeline dependency logic  
-Dynamic programming optimization
 
-This practice sharpened analytical thinking and system efficiency awareness.
+Linked Lists
 
----
+	•	Reverse Linked List — https://leetcode.com/problems/reverse-linked-list/
+	
+	•	Linked List Cycle — https://leetcode.com/problems/linked-list-cycle/
+	
+	•	Merge Two Sorted Lists — https://leetcode.com/problems/merge-two-sorted-lists/
+	
+	•	Remove Nth Node From End — https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+	
+	•	Intersection of Two Linked Lists — https://leetcode.com/problems/intersection-of-two-linked-lists/
+	
+	•	Add Two Numbers — https://leetcode.com/problems/add-two-numbers/
+	
+	•	LRU Cache — https://leetcode.com/problems/lru-cache/
 
-## Production Engineering Skills
 
-Performance optimization and debugging  
-Concurrency and distributed processing  
-Database modeling and schema design  
-API integration and automation  
-Version control and deployment pipelines  
-Data quality monitoring and validation
 
----
+Stack and Queue
 
-## Certifications and Professional Learning
+	•	Valid Parentheses — https://leetcode.com/problems/valid-parentheses/
+	
+	•	Min Stack — https://leetcode.com/problems/min-stack/
+	
+	•	Implement Queue Using Stacks — https://leetcode.com/problems/implement-queue-using-stacks/
+	
+	•	Daily Temperatures — https://leetcode.com/problems/daily-temperatures/
+	
+	•	Simplify Path — https://leetcode.com/problems/simplify-path/
+	
+	•	Largest Rectangle in Histogram — https://leetcode.com/problems/largest-rectangle-in-histogram/
 
-Advanced coursework in big data platforms, orchestration, warehousing and DevOps automation completed.  
-Cloud data engineering certification preparation completed with hands on project experience.
 
----
 
-## Engineering Principles
 
-Scalable first  
-Automation always  
-Clean architecture matters  
-Consistency builds expertise
+Phase 4 — Efficient Search and Large Dataset Handling
 
----
 
-## Daily Tooling
 
-GitHub and Git workflows  
-Cloud data platforms  
-Distributed notebook environments  
-Terminal driven development  
-Container based deployment workflows
+Focus: Binary search and sorting
 
----
+Data engineering relevance: Indexing, query optimization, searching large datasets.
 
-## Collaboration
+	•	Binary Search — https://leetcode.com/problems/binary-search/
+	
+	•	Search in Rotated Sorted Array — https://leetcode.com/problems/search-in-rotated-sorted-array/
+	
+	•	Find Minimum in Rotated Sorted Array — https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+	
+	•	Search a 2D Matrix — https://leetcode.com/problems/search-a-2d-matrix/
+	
+	•	Find Peak Element — https://leetcode.com/problems/find-peak-element/
+	
+	•	Kth Largest Element in an Array — https://leetcode.com/problems/kth-largest-element-in-an-array/
 
-Open to technical discussions, collaboration and data engineering opportunities.  
-This repository reflects continuous engineering practice and structured technical growth.
 
+
+
+
+Phase 5 — Hierarchical Data Modeling
+
+
+
+Focus: Trees
+
+Data engineering relevance: Data lineage, hierarchical storage, indexing systems.
+
+	•	Maximum Depth Binary Tree — https://leetcode.com/problems/maximum-depth-of-binary-tree/
+	
+	•	Diameter Binary Tree — https://leetcode.com/problems/diameter-of-binary-tree/
+	
+	•	Invert Binary Tree — https://leetcode.com/problems/invert-binary-tree/
+	
+	•	Balanced Binary Tree — https://leetcode.com/problems/balanced-binary-tree/
+	
+	•	Same Tree — https://leetcode.com/problems/same-tree/
+	
+	•	Binary Tree Level Order Traversal — https://leetcode.com/problems/binary-tree-level-order-traversal/
+	
+	•	Lowest Common Ancestor Binary Tree — https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+	
+	•	Validate Binary Search Tree — https://leetcode.com/problems/validate-binary-search-tree/
+
+
+
+
+
+Phase 6 — Pipeline and Dependency Modeling
+
+
+
+Focus: Graph algorithms
+
+Data engineering relevance: DAG pipelines, scheduling, workflow dependencies.
+
+	•	Number of Islands — https://leetcode.com/problems/number-of-islands/
+	
+	•	Clone Graph — https://leetcode.com/problems/clone-graph/
+	
+	•	Course Schedule — https://leetcode.com/problems/course-schedule/
+	
+	•	Course Schedule II — https://leetcode.com/problems/course-schedule-ii/
+	
+	•	Word Ladder — https://leetcode.com/problems/word-ladder/
+	
+	•	Pacific Atlantic Water Flow — https://leetcode.com/problems/pacific-atlantic-water-flow/
+	
+	•	Rotting Oranges — https://leetcode.com/problems/rotting-oranges/
+	
+	•	Find Eventual Safe States — https://leetcode.com/problems/find-eventual-safe-states/
+
+
+
+
+Phase 7 — Optimization Thinking
+
+
+
+Focus: Dynamic programming, recursion
+
+Data engineering relevance: Query optimization, pipeline efficiency, cost reduction.
+
+
+
+Recursion and Backtracking
+
+	•	Subsets — https://leetcode.com/problems/subsets/
+	
+	•	Permutations — https://leetcode.com/problems/permutations/
+
+
+
+Dynamic Programming
+
+	•	Climbing Stairs — https://leetcode.com/problems/climbing-stairs/
+	
+	•	House Robber — https://leetcode.com/problems/house-robber/
+	
+	•	Unique Paths — https://leetcode.com/problems/unique-paths/
+	
+	•	Minimum Path Sum — https://leetcode.com/problems/minimum-path-sum/
+	
+	•	Decode Ways — https://leetcode.com/problems/decode-ways/
+	
+	•	Longest Increasing Subsequence — https://leetcode.com/problems/longest-increasing-subsequence/
+	
+	•	Coin Change — https://leetcode.com/problems/coin-change/
+	
+	•	Word Break — https://leetcode.com/problems/word-break/
+	
+	•	Combination Sum — https://leetcode.com/problems/combination-sum/
+	
+	•	Generate Parentheses — https://leetcode.com/problems/generate-parentheses/
